@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background: linear-gradient(#eb4034 0%, #9534eb 100%)
+    
+}
+.profile{
+    width: 200px; 
+    margin-bottom: 50px;
+    border-radius: 20%;
+}
+.menu{
+    right:30px;
+    cursor: pointer;
+    list-style: none; font-family: sans-serif; position:absolute; top:10px;
+    z-index: 10;
+}
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:fantasy;
+    font-size: 20px }
+
+.links{
+    background-color: dodgerblue;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin:8px auto;
+}
